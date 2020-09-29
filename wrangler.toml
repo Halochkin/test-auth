@@ -1,0 +1,6 @@
+name = "halochkin-worker"
+type = "javascript"
+account_id = "a6df9be02f0ec82fea09296ccf4d316d"
+workers_dev = true
+route = ""
+zone_id = "10abbb006da8bf40b85865727cfa669c"
